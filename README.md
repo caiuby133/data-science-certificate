@@ -1,2 +1,1 @@
-# data-science-certificate
-IBM Data Science Professional Certificate Assignments
+This repository contains my assignemnts for the IBM Data Science Professional Certificate.
